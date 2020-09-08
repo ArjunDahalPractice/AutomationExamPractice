@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44978" started-at="2020-09-08T06:39:12Z" finished-at="2020-09-08T06:39:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44978" started-at="2020-09-08T06:39:12Z" finished-at="2020-09-08T06:39:57Z">
+      <class name="Test.AddCategoryTest">
+        <test-method status="PASS" signature="addCategory()[pri:0, instance:Test.AddCategoryTest@12d3a4e9]" name="addCategory" duration-ms="7099" started-at="2020-09-08T06:39:12Z" finished-at="2020-09-08T06:39:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCategory -->
+        <test-method status="PASS" signature="validationAddCategory()[pri:0, instance:Test.AddCategoryTest@12d3a4e9]" name="validationAddCategory" duration-ms="7210" started-at="2020-09-08T06:39:19Z" finished-at="2020-09-08T06:39:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationAddCategory -->
+      </class> <!-- Test.AddCategoryTest -->
+      <class name="Test.ValidateAllMonthTest">
+        <test-method status="PASS" signature="validateAllMonth()[pri:0, instance:Test.ValidateAllMonthTest@240237d2]" name="validateAllMonth" duration-ms="7256" started-at="2020-09-08T06:39:27Z" finished-at="2020-09-08T06:39:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAllMonth -->
+      </class> <!-- Test.ValidateAllMonthTest -->
+      <class name="Test.DuplicateCategoryTest">
+        <test-method status="PASS" signature="duplicateCategory()[pri:0, instance:Test.DuplicateCategoryTest@25a65b77]" name="duplicateCategory" duration-ms="8417" started-at="2020-09-08T06:39:34Z" finished-at="2020-09-08T06:39:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- duplicateCategory -->
+      </class> <!-- Test.DuplicateCategoryTest -->
+      <class name="Test.DeleteAddedCategoryTest">
+        <test-method status="PASS" signature="deleteAddedCategory()[pri:0, instance:Test.DeleteAddedCategoryTest@2ed0fbae]" name="deleteAddedCategory" duration-ms="14955" started-at="2020-09-08T06:39:42Z" finished-at="2020-09-08T06:39:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAddedCategory -->
+      </class> <!-- Test.DeleteAddedCategoryTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

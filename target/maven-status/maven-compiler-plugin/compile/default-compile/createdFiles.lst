@@ -1,0 +1,7 @@
+Page\DuplicateCategoryPage.class
+Page\EraseAddedCategoryPage.class
+Page\ValidateAllMonthPage.class
+Page\AddCategoryPage.class
+Util\BasePage.class
+Util\ExcelReader.class
+Util\BrowserFactory.class

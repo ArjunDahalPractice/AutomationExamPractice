@@ -1,0 +1,4 @@
+Test\AddCategoryTest.class
+Test\DuplicateCategoryTest.class
+Test\ValidateAllMonthTest.class
+Test\EraseAddedCategoryTest.class
